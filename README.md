@@ -1,4 +1,4 @@
 ReposiOS
 ========
 
-Objective-C (iOS)
+Objective-C (iOS) for iPhone, iPad, iPod
